@@ -487,6 +487,7 @@ position: relative;
     font-weight: 500;
     line-height: 1.5; 
     letter-spacing: 0.02em;
+    margin-bottom: 16px; 
 }
 
 .footer-container-social-icon {
@@ -532,7 +533,6 @@ position: relative;
     gap: 16px;
     align-items: center;
     justify-content: center;
-    margin-top: 16px;
 }
 
 .footer-social-list-link:hover, 
